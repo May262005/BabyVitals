@@ -1,0 +1,8 @@
+{
+    "name": "api_web",
+    "description": "API Web",
+    "require": {
+      "php": "^7.4"
+    }
+  }
+  

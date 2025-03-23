@@ -1,0 +1,8 @@
+{
+    "name": "api_movil",
+    "description": "API Móvil",
+    "require": {
+      "php": "^7.4"
+    }
+  }
+  
